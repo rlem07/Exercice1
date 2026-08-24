@@ -1,0 +1,24 @@
+{
+  "name": "exercice1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/rlem07/Exercice1#readme",
+  "bugs": {
+    "url": "https://github.com/rlem07/Exercice1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlem07/Exercice1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
